@@ -17,8 +17,6 @@
 
 <p align="center">
   <a href="/">
-    <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitjoshi-hey&theme=github">
+    <img height="240em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitjoshi-hey&theme=github">
   </a>
 </p>
-
-
