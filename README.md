@@ -12,7 +12,7 @@
   ⚡ Currently learning backend in GoLang, and practicing DSA & CP. I have a keen interest in Open Source Contribution.
 </h4>
 <h4 align="center">
-  🔧 Tech Stack: Go, C++, React, C, JS
+  🔧 Tech Stack: GoLang, C, C++, React, JavaScript
 </h4>
 
 <br/>
