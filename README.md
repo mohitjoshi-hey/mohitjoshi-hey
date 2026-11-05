@@ -29,20 +29,7 @@
   </a>
 </p>
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/mohitjoshi-hey">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohitjoshi-hey&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="mj's GitHub Stats" />
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/mohitjoshi-hey">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohitjoshi-hey&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
-  <br/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=mohitjoshi-hey&theme=dark&hide_border=true&cache_seconds=86400" alt="mj's GitHub Streak" width="49%" />
-</p>
+## 📊 GitHub Stats
 
 <!-- cool-readme:start -->
 <p align="center">
